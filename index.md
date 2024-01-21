@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my page
 ---
+
+This is the start of the content
 
