@@ -1,4 +1,4 @@
 ---
-title: My learnings
+title: Things I'm learning about
 ---
 
