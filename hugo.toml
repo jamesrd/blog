@@ -1,4 +1,4 @@
-baseURL = "https://www.jamesrdevries.com"
+baseURL = "https://www.jamesrdevries.com/blog"
 title = "Things I'm Learning"
 theme = "HugoTeX"
 paginate = 3
