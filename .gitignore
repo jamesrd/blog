@@ -7,8 +7,10 @@
 *.o
 *.so
 
+# Hugo
 public/
 resources/
+.hugo_build.lock
 
 # Packages #
 ############
