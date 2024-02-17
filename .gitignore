@@ -8,6 +8,7 @@
 *.so
 
 public/
+resources/
 
 # Packages #
 ############
