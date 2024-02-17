@@ -6,8 +6,6 @@ aliases = ["about-us", "contact"]
 author = "James DeVries"
 +++
 
-This blog site is built using [Hugo](https://gohugo.io/).
+This blog site is built using [Hugo](https://gohugo.io/) using the [HugoTex](https://github.com/kaisugi/HugoTeX) theme.
 
-The theme is [HugoTex](https://github.com/kaisugi/HugoTeX).
-
-Find more about me at [my homepage](https://www.jamesrdevries.com).
+Find more about me at [jamesrdevries.com](https://www.jamesrdevries.com).
