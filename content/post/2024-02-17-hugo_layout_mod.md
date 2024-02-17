@@ -20,7 +20,7 @@ the change without directly modifying the original theme files.
 __Solution:__ Hugo searches for files in the `layouts/` folder before using the files from the 
 theme's `layouts/` folder.
 
-Reference page: [Hugo: Customizing a theme](https://gohugobrasil.netlify.app/themes/customizing/)
+_Reference page:_ [Hugo: Customizing a theme](https://gohugobrasil.netlify.app/themes/customizing/)
 
 ## Steps:
 
